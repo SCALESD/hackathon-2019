@@ -16,6 +16,8 @@ San Diego has the largest deployment of street light sensors in the country, and
  
 [https://github.com/CityIQ/OnBoarding]()
 
+Credentials can be found [here](https://www.sandiego.gov/sustainability/energy-and-water-efficiency/programs-projects/smart-city).
+
 ### San Diego Open Data Portal
 The Open Data Portal is home to over a 100 datasets gathered from across city systems and departments.  Data ranges in type from CSV to GIS, providing detailed information on everything from street repairs to zoning.
 
