@@ -15,7 +15,6 @@ All datasets, shared by us, or otherwise avaiable, are free to use.  Please abid
 San Diego has the largest deployment of street light sensors in the country, and atmospheric, traffic, and pedestrian data is open to access. Start with the CityIQ onboarding repo and grab the latest credentials from the City of San Diego.
  
 [https://github.com/CityIQ/OnBoarding]()
-[https://www.sandiego.gov/sustainability/energy-and-water-efficiency/programs-projects/smart-city]()
 
 ### San Diego Open Data Portal
 The Open Data Portal is home to over a 100 datasets gathered from across city systems and departments.  Data ranges in type from CSV to GIS, providing detailed information on everything from street repairs to zoning.
