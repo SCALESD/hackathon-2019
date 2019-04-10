@@ -2,6 +2,8 @@
 
 Welcome to the home for the 2019 innovation program hackathon.  If you haven't registered for the event, be sure to register on [EventBrite](https://www.eventbrite.com/o/scale-san-diego-12717873269).
 
+Learn about the event, core challenge areas, and more at [scalesd.com/hackathon-2019/]().
+
 **[Join us](https://join.slack.com/t/scalesd/shared_invite/enQtNDUxNjY1MjQ1NDYwLWQ3YzkyMTI5MTZiYjc5NTExYmQ1MDRlZmZhOTQ1MDEwYTViOTkwZjBjNjJhODZhNGE2OGI3YjIxZmU5MTJiZmY) on Slack to stay informed and engaged.** Slack is the #1 place to communicate with us - bounce ideas, look for teammates, and interact with subject matter experts (SME) and metnors.  Join our challenge specific channels or create your own team channels.  We'll be broadcasting the latest updates and information there.
 
 ## What is this?
@@ -24,26 +26,4 @@ The Open Data Portal is home to over a 100 datasets gathered from across city sy
 [https://data.sandiego.gov]()
 
 ### Additional DataSets
-Additional datasets will be continually added as we approach the Hackathon. Here are a few that we will be providing additional information to.
-
-* AskCHISNE
-* CalEPA
-* California Community Colleges Datamart
-* California Department of Education
-* California Environmental Data Exchange California HHS Data Portal
-* California School Dashboard
-* California Transportation Survey
-* Caltrans GIS
-* College Scorecard
-* Count of San Diego HHSA SNAP
-* Department of Transportation
-* EPA Air Quality Data
-* Healthy Places Index
-* National Center for Educational Statistics
-* NOAA
-* San Diego County HHS
-* San Diego Planning Database
-* SANGIS
-* SANDAG
-* SWITRS
-* US Census
+All datasets have been listed on the hackathon site in each of their respective challenge areas.  Visit [scalesd.com/hackathon-2019/]() to learn more about each challenge space and its associated datasets.
