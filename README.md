@@ -26,4 +26,4 @@ The Open Data Portal is home to over a 100 datasets gathered from across city sy
 [https://data.sandiego.gov]()
 
 ### Additional DataSets
-All datasets have been listed on the hackathon site in each of their respective challenge areas.  Visit [scalesd.com/hackathon-2019/]() to learn more about each challenge space and its associated datasets.
+All datasets have been listed on the hackathon site in each of their respective challenge areas.  Visit [https://scalesd.com/hackathon-2019/]() to learn more about each challenge space and its associated datasets.
